@@ -1,0 +1,6 @@
+/.vscode/
+/venv/
+/.idea/
+youtube_lib.py
+/*/__pycache__/
+APIKEYLIST.txt
